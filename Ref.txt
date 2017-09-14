@@ -1,0 +1,6 @@
+Referencias:
+https://www.cs.cmu.edu/~avrim/451f11/lectures/lect1004.pdf
+http://stevehanov.ca/blog/index.php?id=119
+http://isthe.com/chongo/tech/comp/fnv/
+http://cmph.sourceforge.net/papers/esa09.pdf
+https://en.wikipedia.org/wiki/Merge_sort
